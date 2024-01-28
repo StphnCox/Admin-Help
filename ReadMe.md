@@ -1,5 +1,5 @@
 # Index
 
 * System Setup (from scratch)
-  *  [Office/collaboration](./collaboration.md)
+  *  [General](./General.md)
   *  [Development](./Development.md)
