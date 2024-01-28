@@ -1,7 +1,9 @@
 # Development
 
-* [Office 365](https://support.microsoft.com/en-us/office/download-and-install-or-reinstall-microsoft-365-or-office-2021-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)
+* [GoLang](https://go.dev/doc/install)
 
-* [Teams For Work](https://www.microsoft.com/en-us/microsoft-teams/download-app)
+* [Rust](https://www.rust-lang.org/tools/install)
 
-* [chrome](https://www.google.com/chrome/bsem/download/en_us/)
+* [Python for VS Code](https://learn.microsoft.com/en-us/visualstudio/python/)
+
+* [Visual Studio Code](https://code.visualstudio.com/Download)
