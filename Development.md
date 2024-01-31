@@ -10,3 +10,5 @@
   * [AzureCLI]([ms-vscode.azurecli](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
 
 * [Postman](https://www.postman.com/downloads/)
+
+* [PowerBI Powershell](https://learn.microsoft.com/en-us/powershell/power-bi/overview?view=powerbi-ps)
