@@ -12,3 +12,5 @@
 * [Postman](https://www.postman.com/downloads/)
 
 * [PowerBI Powershell](https://learn.microsoft.com/en-us/powershell/power-bi/overview?view=powerbi-ps)
+
+* [Office 365 CLI](https://devblogs.microsoft.com/microsoft365dev/getting-started-office365-cli-powershell/)
